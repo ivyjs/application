@@ -1,0 +1,9 @@
+{
+  "name": "ivy-app",
+  "version": "1.0.0",
+  "description": "App boilterplate for ivy framework",
+  "main": "index.js",
+  "repository": {},
+  "author": "Aleksa Stankovic <lexa931@hotmail.com>",
+  "license": "MIT"
+}
