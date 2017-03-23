@@ -3,10 +3,10 @@ module.exports = {
      * Load application providers.
      */
     'providers': [
-        modules_path() + '/ivy-framework/src/Config/ServiceProvider',
-        modules_path() + '/ivy-framework/src/Pipe/ServiceProvider',
-        modules_path() + '/ivy-framework/src/Middleware/ServiceProvider',
-        modules_path() + '/ivy-framework/src/Router/ServiceProvider'
+        modules_path() + '/ivyframework/src/Config/ServiceProvider',
+        modules_path() + '/ivyframework/src/Pipe/ServiceProvider',
+        modules_path() + '/ivyframework/src/Middleware/ServiceProvider',
+        modules_path() + '/ivyframework/src/Router/ServiceProvider'
     ],
 
     /**
