@@ -1,5 +1,8 @@
 const Route = use('Router');
 
-Route.get('/', function (res) {
-    return res.end('cool');
+/**
+ * List of routes
+ */
+Route.get('/', function () {
+    return "Welcome to Ivy framework";
 });
