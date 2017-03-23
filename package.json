@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": {},
   "author": "Aleksa Stankovic <lexa931@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "ivyframework": "^0.2.0"
+  }
 }
