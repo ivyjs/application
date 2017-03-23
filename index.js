@@ -1,3 +1,3 @@
-const Server = require('ivy-framework');
+const Server = require('ivyframework');
 require('./bootstrap');
 (new Server).start();
