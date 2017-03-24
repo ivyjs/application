@@ -6,7 +6,8 @@ module.exports = {
         modules_path() + '/ivyframework/src/Config/ServiceProvider',
         modules_path() + '/ivyframework/src/Pipe/ServiceProvider',
         modules_path() + '/ivyframework/src/Middleware/ServiceProvider',
-        modules_path() + '/ivyframework/src/Router/ServiceProvider'
+        modules_path() + '/ivyframework/src/Router/ServiceProvider',
+        modules_path() + '/ivyframework/src/Console/ServiceProvider'
     ],
 
     /**
