@@ -7,5 +7,6 @@ let command = args.length == 0 ? "help" : args[0];
 args = args.slice(1);
 
 if (!Console.run(command, args)) {
+    Console.run('help');
 }
 
