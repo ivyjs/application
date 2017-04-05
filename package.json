@@ -7,6 +7,6 @@
   "author": "Aleksa Stankovic <lexa931@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ivyframework": "^0.2.1"
+    "ivyframework": "^0.4.0"
   }
 }
