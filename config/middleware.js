@@ -4,7 +4,7 @@ module.exports = {
      * binding: namespace
      */
     'middlewares': {
-        'test': 'App/TestMiddleware'
+        'body-parser': 'App/BodyParserMiddleware'
     },
 
     /**
